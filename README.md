@@ -16,3 +16,4 @@ The company president has given us a new assignment. Using Python and Pandas, cr
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 * There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
+https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/main/Analysis/PyBer_fare_summary.png
