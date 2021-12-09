@@ -12,19 +12,29 @@ The company president has given us a new assignment. Using Python and Pandas, cr
 * Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 * There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
+The total number of rides in each city type is as follows:
+
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/09fa7ba9b176efa1e06233790109d70d927f590e/Analysis/Fig1_Total_rides_for_each_city_type.png)
+
+The total number of drivers working in each city type is as follows:
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/1b686509601436786debf4efd1565d28f22a4984/Analysis/Fig2_Total_drivers_for_each_city_type.png)
 
+The total amount of fares collected for each city type is as follows:
+
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig3_Total_fares_for_each_city_type.png)
+
+The average fare per ride for each city type is as follows:
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig4_Average_fare_per_ride_for_each_city_type.png)
 
+The average fare per driver for each city type is as follows:
+
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig5_Average_fare_per_driver_for_each_city_type.png)
 
-![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig6_PyBer_Summary_DataFrame_Formatted.png)
+Once we clean up the dataframe, the result looks as follows:
 
-![image]()
+![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig6_PyBer_Summary_DataFrame_Formatted.png)
 
 ## Summary:
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
