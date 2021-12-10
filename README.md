@@ -48,7 +48,8 @@ Once we clean up the dataframe, the result looks as follows:
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig6_PyBer_Summary_DataFrame_Formatted.png)
 
-### Weekly Summary for One Year:
+### Weekly Summary:
+
 When we analyze the weekly summary of PyBer fares, we can clearly see the significant differences between Urban, suburban, and rural fares.
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/c2dba5066746e913b9bfef67987bf8cfe5e92d8f/Analysis/Fig7_PyBer_FareSummary_Pivot.png)
