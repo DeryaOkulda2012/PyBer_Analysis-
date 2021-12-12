@@ -42,6 +42,8 @@ When we analyze the weekly summary of PyBer fares, we can clearly see the signif
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/c2dba5066746e913b9bfef67987bf8cfe5e92d8f/Analysis/Fig7_PyBer_FareSummary_Pivot.png)
 
+ The weekly total fares for each city type for the first four months of 2019 clearly ilustrates the differences in totals between the urban, suburban, and rural city type.
+
 ![image](https://user-images.githubusercontent.com/93683791/145460599-a7b3831b-ed36-4555-ba3d-f09d4d6e5ead.png)
 
 ## Summary:
