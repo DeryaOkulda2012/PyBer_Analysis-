@@ -5,10 +5,10 @@
 The company president has given us a new assignment. Using Python and Pandas, create a summary DataFrame of the ride-sharing data by city type (Urban, Suburban, or Rural). Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. Finally, summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results:
-Using images from the summary DataFrame and multiple-line chart, the differences in ride-sharing data among the different city types will be described.
+Using images from the summary DataFrame and a multiple-line chart, the differences in ride-sharing data among the different city types will be analyzed and described.
 
 ### Total Rides:
-Not surprisingly, the number of rides in the urban areas is significantly larger than suburban rides, which is subsequently larger than rural rides. The total number of rides in each city type is as follows:
+Not surprisingly, the number of rides in urban areas is significantly higher than suburban rides, which is subsequently higher than rural rides. The total number of rides in each city type is as follows:
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/09fa7ba9b176efa1e06233790109d70d927f590e/Analysis/Fig1_Total_rides_for_each_city_type.png)
 
