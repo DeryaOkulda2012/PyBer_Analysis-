@@ -18,7 +18,7 @@ In line with populations and demand density in urban areas as opposed to suburba
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/1b686509601436786debf4efd1565d28f22a4984/Analysis/Fig2_Total_drivers_for_each_city_type.png)
 
 ### Fares for Each City Types:
-In line with the number of rides and the number of drivers in each city type, the total amount of fares collected in each city type also reflects these totals, with fares in urban areas being significanly larger than suburban, and suburban subsequently being significantly larger than rural. The total amount of fares collected for each city type is as follows:
+In line with the number of rides and the number of drivers in each city type, the total amount of fares collected in each city type also reflects these totals, with total fares in urban areas being significanly larger than suburban, and suburban subsequently being significantly larger than rural total fares. The total amount of fares collected for each city type is as follows:
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/625bd50f1666f36803cc5c1da2ca65b561e697ff/Analysis/Fig3_Total_fares_for_each_city_type.png)
 
