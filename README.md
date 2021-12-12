@@ -13,7 +13,7 @@ Not surprisingly, the number of rides in urban areas is significantly higher tha
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/09fa7ba9b176efa1e06233790109d70d927f590e/Analysis/Fig1_Total_rides_for_each_city_type.png)
 
 ### Total Drivers:
-In line with populations and demand density in urban areas as opposed to suburban and rural areas, the number of drivers serving these three areas is also aligned with the number of drivers working in urban areas being significantly higher than suburban, which is also significantly larger than the number of rural drivers. The total number of drivers working in each city type is as follows:
+In line with populations and demand density in urban areas as opposed to suburban and rural areas, the number of drivers serving these three areas is also aligned, with the number of drivers working in urban areas being significantly higher than suburban, which is significantly larger than the number of rural drivers. The total number of drivers working in each city type is as follows:
 
 ![image](https://github.com/DeryaOkulda2012/PyBer_Analysis-/blob/1b686509601436786debf4efd1565d28f22a4984/Analysis/Fig2_Total_drivers_for_each_city_type.png)
 
