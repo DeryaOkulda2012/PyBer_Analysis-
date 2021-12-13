@@ -47,12 +47,8 @@ The weekly total fares for each city type for the first four months of 2019 clea
 ![image](https://user-images.githubusercontent.com/93683791/145460599-a7b3831b-ed36-4555-ba3d-f09d4d6e5ead.png)
 
 ## Summary:
-* Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types. There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
 The three city types clearly result in different total number of rides, total number of drivers, and total fares for each city type. Although these results are not surprising, some adjustments could be possible to improve these results:
 
-* Mileage fares in urban areas could be increased to take advantage of short distances travelled by those rides as opposed to suburban or rural rides.
-* Time-of-date price variation could be introduced to take advantage of different demand period, with rush hour being a time for higher fares.
-* Recommendation 3
-
-
+* Mileage fares in urban areas could be increased to take advantage of short distances travelled by those rides as opposed to suburban or rural rides which are incrementally longer.
+* Time-of-day price variation could be introduced in busier urban and suburban city types to take advantage of different demand periods, such as higher fares during rush hour.
+* 
