@@ -51,4 +51,4 @@ The three city types clearly result in different total number of rides, total nu
 
 * Mileage fares in urban areas could be increased to take advantage of short distances travelled by those rides as opposed to suburban or rural rides which are incrementally longer.
 * Time-of-day price variation could be introduced in busier urban and suburban city types to take advantage of different demand periods, such as higher fares during rush hour.
-* 
+* In rural areas, each ride could be priced in such a way that as a ride travels further and further on the same trip, each subsequent fare per mile could reduce ever so slightly to attract more riders in rural areas.
